@@ -1,0 +1,16 @@
+body {
+  background-color: #1a202b;
+  font-family: "Lucida Console", "Courier New", monospace;
+  text-align: center;
+}
+
+.white-text {
+  color: lightgray;
+}
+
+.card {
+  width: 40px;
+  height: 40px;
+  background-color: white;
+  color: black;
+}

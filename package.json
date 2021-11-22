@@ -1,0 +1,24 @@
+{
+  "name": "rescript-hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "clean": "bsb -clean-world",
+    "start": "bsb -make-world -w",
+    "dev": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "bs-platform": "^9.0.2",
+    "snowpack": "^3.8.8"
+  },
+  "dependencies": {
+    "@rescript/react": "^0.10.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
