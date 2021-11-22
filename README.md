@@ -2,11 +2,21 @@
  
 This is a ToDo List App using Rescript and React.
 
+
+## Running locally
+
 First, install the dependencies:
-`npm install`
+
+```
+npm install
+```
 
 Run the compiler:
-`npm run start`
+```
+npm run start
+```
 
 Then, run snowpack to host the project:
-`npm run dev`
+```
+npm run dev
+```
